@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masbur
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning python and nodejs
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on mobile apps
 - 📫 How to reach me https://masbur.me
 
